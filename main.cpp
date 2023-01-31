@@ -4,5 +4,7 @@
 using namespace std;
 
 int main(){
-	cout << 10 << endl;
+	// define a variable
+	int x = 10;
+	cout << x << endl;
 }
